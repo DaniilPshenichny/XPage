@@ -1,0 +1,210 @@
+[x-cloak] { display: none !important; }
+.bg-gray-1000{
+    background-color:#F5F6FA;
+}
+.text-gray-1000{
+    color:#696D8E;
+}
+.ui-selector-popup-container{
+    z-index: 10000 !important;
+}
+.border-gray-1000{
+    border-color:#D9DCEA;
+}
+.modal-body{
+    max-height: 50rem;
+}
+.text-blue-1000{
+    color:#28315F;
+}
+.placeholder-blue-1000{
+    --tw-placeholder-opacity: 1;
+    color: rgba(40, 49, 95, var(--tw-placeholder-opacity));
+}
+.bg-color-1000{
+    background: #28315F;
+}
+.bg-green-1000{
+    background: #91B23B;
+}
+.bg-color-red-1000{
+    background: #EA4335;
+}
+:root {
+    --ck-z-default: 4000!important;
+    --ck-z-modal: calc( var(--ck-z-default) + 999 )!important;
+}
+.ck-content>h2 {  font-size: 20px; }
+.ck-content>p { font-size: 16px; margin-top: 1em; margin-bottom: 1em }
+.ck-content>ol{
+    list-style-type: decimal!important;
+}
+.ck-content>ul{
+    list-style-type: disc!important;
+}
+div.ck.ck-editor__main > div > ul{
+    margin: 5px!important;
+    padding: 20px!important;
+}
+div.ck.ck-editor__main > div > ol{
+    margin: 5px!important;
+    padding: 20px!important;
+}
+/*.ck-content > ol,ul{*/
+
+
+/*}*/
+.h-100 {
+height: 60rem;
+}
+.rotate-135{
+--tw-rotate: -135deg;
+}
+.app{
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+.active{
+background: #28315F;
+--tw-text-opacity: 1;
+color: rgba(255,255,255,var(--tw-text-opacity));
+}
+.content-table{
+width: 100%;
+border-spacing: 0 1rem;
+border-collapse: separate;
+}
+.content-table thead tr td{
+min-width:75px;
+color:#696D8E;
+}
+.services{
+min-width:75px;
+color:#696D8E;
+height: 60px;
+}
+.content-table tbody tr{
+background: white;
+border-radius: 16px;
+}
+.accordeon-row{
+border-radius: 0 0 16px 16px!important;
+}
+.accordeon-active{
+border-radius: 16px 16px 0 0!important;
+}
+.content-table tbody tr td{
+height: 60px;
+color:#28315F;
+}
+.info-row{
+padding: 1rem 0 1rem 0;
+color:#28315F;
+border-radius: 16px;
+}
+.content-table tbody tr td:first-child{
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+.content-table tbody tr td:last-child{
+border-bottom-right-radius: 10px;
+border-top-right-radius: 10px;
+}
+.new-request {
+background: #91B23B;
+--tw-text-opacity: 1;
+color: rgba(255, 255, 255, var(--tw-text-opacity));
+text-align: center;
+border-radius: .25rem;
+justify-content: center;
+align-items: center;
+width: 4rem;
+height: 2rem;
+display: flex;
+margin-left: 1rem;
+margin-right: 1rem;
+}
+.progress-request{
+background: #FFC700;
+--tw-text-opacity: 1;
+color: rgba(255, 255, 255, var(--tw-text-opacity));
+text-align: center;
+border-radius: .25rem;
+justify-content: center;
+align-items: center;
+width: 10rem;
+height: 2rem;
+display: flex;
+margin-left: 1rem;
+margin-right: 1rem;
+}
+.finished-request{
+background: #F5F6FA;
+color: #696D8E;
+text-align: center;
+border-radius: .25rem;
+justify-content: center;
+align-items: center;
+width: 10rem;
+height: 2rem;
+display: flex;
+margin-left: 1rem;
+margin-right: 1rem;
+}
+.role-container{
+min-height: 60px;
+border-radius: 16px;
+box-shadow: 0px 4px 10px rgba(217, 220, 234, 0.5);
+}
+.fill-list-button{
+border-radius: 6px;
+box-shadow: 0px 4px 10px rgba(217, 220, 234, 0.5);
+}
+.default-button{
+border-radius: 6px;
+box-shadow: 0px 4px 10px rgba(217, 220, 234, 0.5);
+}
+.shadow-my{
+box-shadow: 0px 4px 10px rgba(217, 220, 234, 0.5);
+}
+.rounded-my{
+border-radius: 16px;
+}
+.my-checkbox{
+    box-shadow: 0px 4px 10px rgba(217, 220, 234, 0.5);
+    border-radius: 6px;
+    width: 24px;
+    height: 24px;
+}
+.request-fuckup{
+background: #FDECEB;
+}
+.z-9999{
+z-index: 9999;
+}
+.z-9998{
+z-index: 3000;
+}
+.ui-tag-selector-tag{
+background-color:white!important;
+}
+.ui-selector-tab-labels,.ui-selector-footer-container{
+display: none;
+}
+.field-error{
+border-color:red;
+}
+/*.company-postavki::after {*/
+/*content: ">";*/
+/*transform: rotate(90deg);*/
+/*font-size: 1rem;*/
+/*top: 36px;*/
+/*right: 100px;*/
+/*position: absolute;*/
+
+/*}*/
